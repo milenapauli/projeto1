@@ -1,0 +1,33 @@
+body{
+    background-color: #ffffff;
+    color: #5D3961;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.config{
+    background-color: #D784E0;
+    color: #000000;
+    margin:40px;
+    border: 10px solid #2a2a2a;
+    margin-left: 20px;
+}
+
+.box{
+    text-align: center;
+    background-color: #9753E0;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+p{
+    padding: 18px;
+    text-align: center;
+}
+
+.titulos{
+    text-align: center;
+}
+
+.tamanho{
+    font-size: 20px;
+}
